@@ -97,6 +97,9 @@ cy:
 jy:
 
 ```
+
+![满文对照](key_manchu.png "key manchu")
+
 ```
 a
 e
